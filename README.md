@@ -3,7 +3,7 @@
 ## Acerca de :
 
 - 🎓 Técnico Universitario en Programación en [UTN-Facultad Regional Mar del Plata](https://mdp.utn.edu.ar/)
-- 🎓 Estudiante de Licenciatura en Informática en [Universiada Atlántida Argentina](https://atlantida.edu.ar/)
+- 🎓 Estudiante de Licenciatura en Informática en [Universidad Atlántida Argentina](https://atlantida.edu.ar/)
 - 🏡 Vivo en **Mar del Plata, Argentina**
 - ⚡ **Gustos** : 🍔 ⚽ 🧉 ✈️ 🎬
 
@@ -21,10 +21,12 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
 
